@@ -27,7 +27,7 @@ the whole project under unity
 https://github.com/Unity-Technologies/ml-agents (ml-agents repo)
 
 ### Results
-artificial intelligence models as well as related learning curves
+artificial intelligence models and related learning curves
 (image)
 
 ### Image
