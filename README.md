@@ -13,7 +13,8 @@ all 3D files modeled with fusion360 for 3D printing.
 
 ### PCB
 gerber file, this printed circuit contains both the power circuit and the connections between the pins of the raspberry pi pico and the servo motors (DS3218) https://www.amazon.ca/dp/B085PVVZNQ
-![alt text](https://github.com/EbonGit/ML_Robot/blob/main/Image/PCB.PNG)
+
+![Screenshot](https://github.com/EbonGit/ML_Robot/blob/main/Image/PCB.PNG)
 
 ### RaspberryPico
 use of the raspberry pi pico because supports the tinyML library of tensorflow, multiprocessor which allows the use of one of the two cores for the execution of the neural network while the second takes care of performing the resulting actions.
