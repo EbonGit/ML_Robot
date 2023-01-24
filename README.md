@@ -25,11 +25,13 @@ all the codes to control the robot using instructions via a usb cable (in python
 
 ### UnityProject
 the whole project under unity
-https://github.com/Unity-Technologies/ml-agents (ml-agents repo)
+
+Unity ml-agents -> https://github.com/Unity-Technologies/ml-agents
 
 ### Results
 artificial intelligence models and related learning curves
-(image)
+
+![Screenshot](https://github.com/EbonGit/ML_Robot/blob/main/Image/Results.PNG)
 
 ### Image
 
