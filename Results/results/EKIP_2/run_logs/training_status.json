@@ -1,0 +1,65 @@
+{
+    "Crawler": {
+        "checkpoints": [
+            {
+                "steps": 14999659,
+                "file_path": "results\\EKIP_2\\Crawler\\Crawler-14999659.onnx",
+                "reward": 953.5370072074559,
+                "creation_time": 1672198259.1718264,
+                "auxillary_file_paths": [
+                    "results\\EKIP_2\\Crawler\\Crawler-14999659.pt"
+                ]
+            },
+            {
+                "steps": 15499986,
+                "file_path": "results\\EKIP_2\\Crawler\\Crawler-15499986.onnx",
+                "reward": 708.0424413179096,
+                "creation_time": 1672200323.4145703,
+                "auxillary_file_paths": [
+                    "results\\EKIP_2\\Crawler\\Crawler-15499986.pt"
+                ]
+            },
+            {
+                "steps": 15999652,
+                "file_path": "results\\EKIP_2\\Crawler\\Crawler-15999652.onnx",
+                "reward": 1046.2406801496234,
+                "creation_time": 1672202399.4541101,
+                "auxillary_file_paths": [
+                    "results\\EKIP_2\\Crawler\\Crawler-15999652.pt"
+                ]
+            },
+            {
+                "steps": 16499672,
+                "file_path": "results\\EKIP_2\\Crawler\\Crawler-16499672.onnx",
+                "reward": 676.4655853271485,
+                "creation_time": 1672204823.782494,
+                "auxillary_file_paths": [
+                    "results\\EKIP_2\\Crawler\\Crawler-16499672.pt"
+                ]
+            },
+            {
+                "steps": 16516321,
+                "file_path": "results\\EKIP_2\\Crawler\\Crawler-16516321.onnx",
+                "reward": 548.1347850859165,
+                "creation_time": 1672213560.422431,
+                "auxillary_file_paths": [
+                    "results\\EKIP_2\\Crawler\\Crawler-16516321.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 16516321,
+            "file_path": "results\\EKIP_2\\Crawler.onnx",
+            "reward": 548.1347850859165,
+            "creation_time": 1672213560.422431,
+            "auxillary_file_paths": [
+                "results\\EKIP_2\\Crawler\\Crawler-16516321.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
