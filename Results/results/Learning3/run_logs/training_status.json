@@ -1,0 +1,29 @@
+{
+    "Crawler": {
+        "checkpoints": [
+            {
+                "steps": 20565,
+                "file_path": "results\\Learning3\\Crawler\\Crawler-20565.onnx",
+                "reward": null,
+                "creation_time": 1674255021.9164221,
+                "auxillary_file_paths": [
+                    "results\\Learning3\\Crawler\\Crawler-20565.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 20565,
+            "file_path": "results\\Learning3\\Crawler.onnx",
+            "reward": null,
+            "creation_time": 1674255021.9164221,
+            "auxillary_file_paths": [
+                "results\\Learning3\\Crawler\\Crawler-20565.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.1+cpu"
+    }
+}
