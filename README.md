@@ -1,4 +1,4 @@
-# ML_Robot
+# ML_Robot (WIP)
 Repository for the project ML_Robot, a quadruped robot for the implementation of artificial intelligence.
 ![alt text](https://github.com/EbonGit/ML_Robot/blob/main/Image/readme.jpg)
 
