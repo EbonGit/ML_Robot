@@ -6,7 +6,7 @@ Repository for the project ML_Robot, a quadruped robot for the implementation of
 
 + [About](#About)
 + [Folders](#Folders)
-  + [Model](###Model)
+  + [Model](#Model)
   + [PCB](###PCB)
   + [Raspberry Pi Pico](###RaspberryPico)
   + [Controller](###Controller)
