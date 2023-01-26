@@ -2,10 +2,16 @@
 Repository for the project ML_Robot, a quadruped robot for the implementation of artificial intelligence.
 ![alt text](https://github.com/EbonGit/ML_Robot/blob/main/Image/readme.jpg)
 
+## Table of Contents
+
++ [About](#About:)
++ [Folders](#Folders:)
++ [Build](#Build)
+
+#About:
 This personal project aims to experiment with the principles of **reinforcement learning*** applied to **robotics**. After modeling the robot using fusion360, I 3d printed it. See assembly guide (WIP). Physical simulation of the robot inside **Unity**, and use of the ml-agents library to train a neural network to control the robot.
 
-
-# Folders:
+#Folders:
 
 ### Model
 all 3D files modeled with **fusion360** for 3D printing.
@@ -38,7 +44,7 @@ artificial intelligence models and related learning graphs
 ### Image
 
 
-# Build
+#Build
 (WIP)
 
 
